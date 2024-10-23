@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Maven Surefire Plugin – Using TestNG]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-22T19:27:33 IST" name="Suite" finished-at="2024-10-22T19:27:36 IST" duration-ms="3354">
+    <groups>
+    </groups>
+    <test started-at="2024-10-22T19:27:33 IST" name="Test" finished-at="2024-10-22T19:27:36 IST" duration-ms="3354">
+      <class name="Com.myki.testscript.LoginCustomer">
+        <test-method signature="main()[pri:0, instance:Com.myki.testscript.LoginCustomer@7fa98a66]" started-at="2024-10-22T19:27:33 IST" name="main" finished-at="2024-10-22T19:27:36 IST" duration-ms="3329" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Maven Surefire Plugin – Using TestNG]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- Com.myki.testscript.LoginCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
